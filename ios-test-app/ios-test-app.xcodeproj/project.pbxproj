@@ -33,7 +33,6 @@
 		BBB796A02CD7F61F00719780 /* ios-test-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-test-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBB796B02CD7F62100719780 /* ios-test-appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-test-appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBB796BA2CD7F62100719780 /* ios-test-appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-test-appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BBB796DA2CD8137400719780 /* ios-test-app.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "ios-test-app.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -111,13 +110,6 @@
 				BBB796A02CD7F61F00719780 /* ios-test-app.app */,
 				BBB796B02CD7F62100719780 /* ios-test-appTests.xctest */,
 				BBB796BA2CD7F62100719780 /* ios-test-appUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		BBB796DB2CD8137400719780 /* Products */ = {
-			isa = PBXGroup;
-			children = (
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -234,12 +226,6 @@
 			preferredProjectObjectVersion = 77;
 			productRefGroup = BBB796A12CD7F61F00719780 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = BBB796DB2CD8137400719780 /* Products */;
-					ProjectRef = BBB796DA2CD8137400719780 /* ios-test-app.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				BBB7969F2CD7F61F00719780 /* ios-test-app */,
